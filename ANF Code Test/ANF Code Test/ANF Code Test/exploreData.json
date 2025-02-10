@@ -1,0 +1,109 @@
+[
+  {
+    "title": "TOPS STARTING AT $12",
+    "backgroundImage": "anf-20160527-app-m-shirts.jpg",
+    "content": [
+      {
+        "target": "https://www.abercrombie.com/shop/us/mens-new-arrivals",
+        "title": "Shop Men"
+      },
+      {
+        "target": "https://www.abercrombie.com/shop/us/womens-new-arrivals",
+        "title": "Shop Women"
+      }
+    ],
+    "promoMessage": "USE CODE: 12345",
+    "topDescription": "A&F ESSENTIALS",
+    "bottomDescription": "*In stores & online. <a href=\\\"http://www.abercrombie.com/anf/media/legalText/viewDetailsText20160602_Tier_Promo_US.html\\\">Exclusions apply. See Details</a>"
+  },
+  {
+    "title": "T-SHIRT DRESSES",
+    "backgroundImage": "anf-US-20160601-app-women-dresses.jpg",
+    "topDescription": "THROW ON & GO",
+    "content": [
+      {
+        "elementType": "hyperlink",
+        "target": "https://www.abercrombie.com/shop/us/womens-dresses-and-rompers",
+        "title": "SHOP NOW"
+      }
+    ]
+  },
+  {
+    "title": "Spotlight On New",
+    "backgroundImage": "anf-US-20160601-app-men-spotlight.jpg",
+    "content": [
+      {
+        "elementType": "hyperlink",
+        "target": "https://www.abercrombie.com/shop/us/mens-new-arrivals",
+        "title": "SHOP NOW"
+      }
+    ]
+  },
+  {
+    "title": "Spotlight On New",
+    "backgroundImage": "anf-US-20160601-app-women-spotlight.jpg"
+  },
+  {
+    "title": "A&F ESSENTIALS",
+    "backgroundImage": "anf-US-20160415-app-men-essentials.jpg",
+    "content": [
+      {
+        "target": "https://www.abercrombie.com/shop/us/mens-a-and-f-essentials",
+        "title": "SHOP NOW"
+      }
+    ],
+    "topDescription": "THE SOFTEST STYLE STAPLES"
+  },
+  {
+    "title": "FASHION TOPS",
+    "backgroundImage": "anf-US-20160518-app-women-tops.jpg",
+    "topDescription": "SUMMER-READY"
+  },
+  {
+    "title": "ALL SHORTS $29",
+    "backgroundImage": "anf-US-20160505-app-w-shorts.jpg",
+    "content": [
+      {
+        "target": "https://www.abercrombie.com/shop/us/womens-shorts-bottoms",
+        "title": "SHOP NOW"
+      }
+    ],
+    "topDescription": "LIMITED TIME",
+    "bottomDescription": "*In stores & online. <a href=\"http://www.abercrombie.com/anf/media/legalText/viewDetailsText20160601_Shorts_US.html\">Exclusions apply. See Details</a>"
+  },
+  {
+    "title": "ALL SHORTS $29",
+    "backgroundImage": "anf-US-20160519-app-m-shorts.jpg",
+    "content": [
+      {
+        "target": "https://www.abercrombie.com/shop/us/mens-shorts-bottoms",
+        "title": "SHOP NOW"
+      }
+    ],
+    "topDescription": "LIMITED TIME",
+    "bottomDescription": "*In stores & online. <a href=\"http://www.abercrombie.com/anf/media/legalText/viewDetailsText20160601_Shorts_US.html\">Exclusions apply. See Details</a>"
+  },
+  {
+    "title": "TEES & HENLEYS",
+    "backgroundImage": "anf-US-20160518-app-men-tees.jpg",
+    "content": [
+      {
+        "target": "https://www.abercrombie.com/shop/us/mens-tees-and-henleys-tops",
+        "title": "SHOP NOW"
+      }
+    ],
+    "topDescription": "SUMMER STAPLE"
+  },
+  {
+    "title": "ALL JEANS BUY ONE GET ONE 50% OFF",
+    "backgroundImage": "anf-US-20160415-app-women-jeans.jpg",
+    "content": [
+      {
+        "target": "https://www.abercrombie.com/shop/us/womens-jeans-bottoms",
+        "title": "SHOP NOW"
+      }
+    ],
+    "topDescription": "LIMITED TIME",
+    "bottomDescription": "*In stores & online. Applies to equal or lesser value item. Single items priced as marked. <a href=\"http://www.abercrombie.com/anf/media/legalText/viewDetailsText20160601_Jeans_BOGO_50_Off.html\">Exclusions apply. See Details</a>"
+  }
+]
